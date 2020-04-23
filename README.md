@@ -1,6 +1,6 @@
 # Multi-class classification using Iris dataset
 
-**Note:** _The notebook used in this repo is part of a solution tutorial [Build, deploy, test, retrain and monitor a predictive machine learning model](https://cloud.ibm.com/docs/tutorials?topic=solution-tutorials-create-deploy-retrain-machine-learning-model) and used for demonstrating IBM Watson OpenScale only._
+**Note:** _The notebook used in this repo is part of a solution tutorial [Build, deploy, test and monitor a predictive machine learning model](https://cloud.ibm.com/docs/tutorials?topic=solution-tutorials-create-deploy-retrain-machine-learning-model) and used for demonstrating IBM Watson OpenScale only._
 
 The notebook utilizes <a href="https://pypi.python.org/pypi/watson-machine-learning-client" target="_blank" rel="noopener noreferrer">watson-machine-learning-client</a> package in order to save, deploy, and score a predictive model.
 
